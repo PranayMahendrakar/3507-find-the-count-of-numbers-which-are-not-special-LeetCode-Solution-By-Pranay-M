@@ -6,3 +6,4 @@
 - [2026-03-22T16:15:34Z] perf: optimize loop for better performance
 - [2026-03-22T13:19:37Z] docs: improve inline documentation
 - [2026-03-22T08:23:02Z] perf: optimize loop for better performance
+- [2026-03-22T15:06:19Z] chore: remove deprecated API calls
